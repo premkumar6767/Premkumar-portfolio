@@ -1,0 +1,154 @@
+body,
+h1 ,h2,p{
+    margin: 0px;
+}
+
+.main-div {
+    background-color: #f0f2f5;
+    /* text-align: center; */
+    font-family: "Roboto", serif;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+#logo {
+    font-size: 58px;
+    color: #0866ff;
+    
+    padding: 25px 0px;
+
+}
+.signup-form{
+    background-color:#fff;
+    width: 400px;
+    border-radius: 8px;
+    margin-bottom: 38px;
+    padding-bottom: 25px;
+}
+.form-heading{
+    
+    text-align: center;
+    padding:10px 0px;
+    border-bottom: 1px solid#ccc;
+    
+}
+#para{
+    color:#606770;
+    padding-top: 5px;
+    
+    
+}
+.input-fields{
+    padding:15px;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content:space-between;
+}
+input,select{
+    padding:8px;
+    border:1px solid #ccc;
+    border-radius: 5px;
+    width:100%;
+    font-size:15px;
+    margin-bottom: 10px;
+   
+}
+.half-width{
+    display:flex;
+    width:48%;
+   
+}
+.dob-div{
+    display:flex;
+    width: 100%;
+    justify-content: space-between;
+}
+label{
+    font-size: 12px;
+    padding-bottom: 1%;
+    
+    color:#606770;
+}
+.quat-width{
+    width:30%;
+    display:flex;
+
+}
+.radio-btn{
+    border:1px solid #ccc;
+    border-radius: 5px;
+    padding:10px;
+    width: 100%;
+    display:flex;
+    align-items:center;
+    justify-content: space-between;
+    margin-bottom: 10px;
+
+}
+.radio-input{
+    margin: 0;
+    width:auto;
+}
+.radio-label{
+    padding-bottom: 0;
+}
+
+.Full-width{
+    display:flex;
+    width: 100%;
+}
+.para2{
+    font-size: 12px;
+    color:#606770;
+    margin-bottom:10px;
+
+}
+a{
+    text-decoration: none;
+}
+.btn-div{
+    width:100%;
+    display:flex;
+    justify-content: center;
+    margin-bottom:10px;
+    
+}
+#btn{
+    width:45%;
+    background-color:#01a400;
+    border-radius:10px;
+    border:0px;
+    padding:8px;
+    font-size: 17px;
+    color:#fff;
+}
+#account{
+    width:100%;
+    display:flex;
+    justify-content: center;
+     
+}
+#para3{
+    color:#1877f2;
+}
+.footer{
+    width:100%;
+    background-color: #fff;
+}
+#p1
+{
+    font-size:12px;
+    
+}
+#p2
+{
+    font-size:12px;
+    
+}
+.div-para
+{
+    padding-top: 1%;
+}
